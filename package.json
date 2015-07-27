@@ -1,5 +1,5 @@
 {
-	"name": "@dmail/promise",
+	"name": "@dmail/set-immediate",
 	"version": "0.0.1",
 	"description": "setImmediate polyfill"
 }
