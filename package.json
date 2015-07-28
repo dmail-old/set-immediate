@@ -1,5 +1,9 @@
 {
 	"name": "@dmail/set-immediate",
 	"version": "0.0.1",
-	"description": "setImmediate polyfill"
+	"description": "setImmediate polyfill",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dmail/set-immediate"
+	}
 }
